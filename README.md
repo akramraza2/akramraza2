@@ -17,6 +17,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center">
+  <img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="500" height="300"/>
+</div>
+ --- 
+
+### :technologist: About Me :
+
 <!--
 **akramraza2/akramraza2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
