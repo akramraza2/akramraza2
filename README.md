@@ -1,8 +1,21 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200"/>
 </div>
-
-### Hi there 👋
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/akramraza25524/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="https://stackoverflow.com/users/14958556/akram-raza">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stackoverflow&logoColor=white&style=for-the-badge" alt="Stack Overflow Badge"/>
+  </a>
+   <a href="https://g.dev/akramraza">
+    <img src="https://img.shields.io/badge/GoogleDevelopers-blue?logo=google&logoColor=white&style=for-the-badge" alt="Google Developers Badge"/>
+  </a>
+</div>
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <!--
 **akramraza2/akramraza2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
